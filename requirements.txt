@@ -1,0 +1,22 @@
+# Requirements for Image-Classification project
+# Python 3.12+
+
+python>=3.12
+
+# Core ML
+tensorflow>=2.12,<3.0
+
+# Web app
+streamlit>=1.20
+
+# Data science / utilities
+numpy>=1.25
+matplotlib>=3.7
+scikit-learn>=1.2
+pillow>=9.5
+opencv-python>=4.8
+
+# Optional (for development)
+black
+isort
+flake8
